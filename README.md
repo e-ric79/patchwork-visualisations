@@ -1,11 +1,11 @@
 # Patchwork Visualisations in R
 
-This project contains an R script (`patchwork.R`) that uses `ggplot2` and `patchwork` to create composite plots from the `mpg` dataset.
+This project contains an R script that uses `ggplot2` and `patchwork` to create composite plots from the `mpg` dataset.
 
 ## File Description
 
 - **patchwork.R**: Generates multiple ggplots and arranges them using `patchwork`.
-- **plot.png**: Output image generated from the script (to be added next).
+- **plot.png**: Output image generated from the script
 
 ## Dependencies
 
