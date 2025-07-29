@@ -5,7 +5,6 @@ This project contains an R script that uses `ggplot2` and `patchwork` to create 
 ## File Description
 
 - **patchwork.R**: Generates multiple ggplots and arranges them using `patchwork`.
-- **plot.png**: Output image generated from the script
 
 ## Dependencies
 
